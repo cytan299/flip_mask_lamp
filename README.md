@@ -1,4 +1,4 @@
-# Flip mask and lamp
+# Remote controlled flip Bahtinov mask and lamp
 
 by C.Y. Tan 2017
 
@@ -19,9 +19,9 @@ controller to be the slave.
 The mechanical design of the flip mask and lamp are mirror images of
 each other. The principal parts used in the design are as follows:
 
-* A servo controller [Maestro](https://www.pololu.com/product/1350)
+* A servo controller made by Pololu called the [Maestro](https://www.pololu.com/product/1350).
 * A servo that rotates greater than 270
-degrees.[Feetech FR5311M](http://www.feetechrc.com/product/continuous-rotation-servo/two-working-mode-digital-programmable-metal-gears-servo-fr5311m/).
+degrees: the [Feetech FR5311M](http://www.feetechrc.com/product/continuous-rotation-servo/two-working-mode-digital-programmable-metal-gears-servo-fr5311m/).
 * A sprocket and chain system for connecting the servo to the mask and lamp.
 * Interlock switches to indicate where the mask or lamp is
   * A mechanical lever switch
