@@ -47,7 +47,7 @@ Have fun!
 
 * **howto** Assembly instructions for the flip mask and lamp.
 * **ponoko** The files that are used for laser cutting the acrylic parts of
-the design. These files are can be sent directly to
+the design. These files can be sent directly to
 [Ponoko](http://www.ponoko.com) for laser cutting.
 * **bom** Bill of materials for 1 pair of flip mask and lamp.
 * **eagle** Eagle schematic and board files.
