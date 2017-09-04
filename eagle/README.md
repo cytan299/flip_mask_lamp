@@ -10,6 +10,7 @@ that can be downloaded to view the designs.
   * controls the Bahtinov mask
   * is the master that controls the flip lamp unit that is the slave unit
   * contains the USB interface
+  * has the [Maestro](https://www.pololu.com/product/1350) servo controller
 * **flip_lamp** The flip lamp control unit. This unit
   * controls the lamp
 
