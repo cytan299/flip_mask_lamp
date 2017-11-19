@@ -22,12 +22,14 @@ each other. The principal parts used in the design are as follows:
 * A servo controller made by Pololu called the [Maestro](https://www.pololu.com/product/1350).
 * A servo that rotates greater than 270
 degrees: the [Feetech FR5311M](http://www.feetechrc.com/product/continuous-rotation-servo/two-working-mode-digital-programmable-metal-gears-servo-fr5311m/).
-* A sprocket and chain system for connecting the servo to the mask and lamp.
+* A [sprocket and chain system](https://www.servocity.com/0-1227-pitch-nylon-servo-sprockets) for connecting the servo to the mask and lamp.
 * Interlock switches to indicate where the mask or lamp is
   * A mechanical lever switch
   * A Hall switch
 * A lamp made from an
 [electroluminescent panel with dimmer and power inverter](https://knema.com/collections/electroluminescent-el-panels/products/electroluminescent-panel-split-electrode-type-blue-green-or-white-includes-power-supply-and-dimming-inverter).
+* Filter sheets have been added so that the RGB components of the EL panel have nearly
+  the same intensities.
 
 ## Movie
 
